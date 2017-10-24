@@ -1,5 +1,4 @@
 body {
-	/*background: #666666;*/
 }
 
 div {
@@ -8,14 +7,10 @@ div {
 }
 
 #ttt {
-	/*background: #000000;*/
 	color: #ffffff;
 	margin: 10px;
 	padding: 10px;
 	display:inline-block;
-}
-
-#one {
 }
 
 #nav {
@@ -47,13 +42,6 @@ hr {
 	margin: 10px;
 }
 
-#div3 {
-	width: inherit;
-	/*height: 100px;*/
-	background: #ffffff;
-	margin: 10px;
-}
-
 #copyright {
 	color: #000000;
 	float: right;
@@ -62,11 +50,9 @@ hr {
 
 img {
 	height: inherit;
-	float: center;
 }
 
 a {
-	/*color: #000000;*/
 }
 
 a:visited {
