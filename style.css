@@ -3,14 +3,12 @@ body {
 }
 
 div {
-	background: #000000;
-	color: #ffffff;
 	padding: 10px;
 	margin: 10px;
 }
 
 #ttt {
-	background: #000000;
+	/*background: #000000;*/
 	color: #ffffff;
 	margin: 10px;
 	padding: 10px;
@@ -27,8 +25,8 @@ div {
 
 #logo {
 	width: inherit;
-	height: 200px;
-	background: #ff0000;
+	height: 40%;
+	background: #0000ff;
 	margin: 10px;
 }
 
@@ -45,7 +43,7 @@ hr {
 
 #div3 {
 	width: inherit;
-	height: 100px;
+	/*height: 100px;*/
 	background: #ffffff;
 	margin: 10px;
 }
@@ -61,6 +59,10 @@ img {
 	float: center;
 }
 
+a {
+	/*color: #000000;*/
+}
+
 a:visited {
-	color: #5555ff;
+	color: #000000;
 }
