@@ -21,6 +21,8 @@ div {
 #nav {
 	float: right;
 	display: inline;
+	margin-right: 60px;
+	margin-top: 40px;
 }
 
 #logo {
