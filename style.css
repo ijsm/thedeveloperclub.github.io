@@ -6,10 +6,11 @@ div {
 	margin: 10px;
 }
 
+/*
 #header {
 	margin: 0px;
 	padding: 0px;
-}
+}*/
 
 #headerRow {
 	margin: 0px;
@@ -60,11 +61,11 @@ hr {
 	margin: 10px;
 }
 
-img {
+/*img {
 	height: inherit;
-}
+}*/
 
-a {
+/*a {
 	margin: 10px;
 	padding: 7px;
 	background: #ffffff;
@@ -78,4 +79,4 @@ a:visited {
 
 a:hover {
 	color: #0000ff;
-}
+}*/
