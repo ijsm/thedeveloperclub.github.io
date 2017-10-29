@@ -1,0 +1,14 @@
+title: The Developer Club
+baseurl: ""
+url: "https://thedeveloperclub.github.io"
+mardown: kramdown
+
+exclude:
+  - .git/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

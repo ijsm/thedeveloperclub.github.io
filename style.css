@@ -1,53 +1,22 @@
 body {
-}
-
-div {
-	padding: 10px;
-	margin: 10px;
+	padding-top: 5rem;
 }
 
 /*
-#header {
-	margin: 0px;
-	padding: 0px;
+div {
+	padding: 10px;
+	margin: 10px;
 }*/
 
-#headerRow {
-	margin: 0px;
-	padding: 0px;
-}
-
-#ttt {
-	color: #ffffff;
-	margin: 10px;
-	padding: 10px;
-	display:inline-block;
-}
-
-#nav {
-	float: right;
-	/*display: inline;*/
-	/*margin-right: 60px;
-	margin-top: 40px;*/
-}
-
-#logo {
-	width: inherit;
-	height: 40%;
+.logo-box {
+	height: 16rem;
 	background: #0000ff;
-	margin: 10px;
-	margin-top: 5%;
+	margin-right: 4rem;
+	margin-left: 4rem;
 }
 
 #imageText {
 	font-size: 10px;
-}
-
-#div2 {
-	width: inherit;
-	height: 200px;
-	background: #000000;
-	margin: 10px;
 }
 
 hr {
@@ -55,28 +24,12 @@ hr {
 	margin: 0px;
 }
 
-#copyright {
-	color: #000000;
+.copyright {
+	color: #000000aa;
 	float: right;
 	margin: 10px;
 }
 
-/*img {
-	height: inherit;
-}*/
-
-/*a {
-	margin: 10px;
-	padding: 7px;
-	background: #ffffff;
-	color: #000000;
-	border-radius: 5px;
+main {
+	margin-top: 3rem;
 }
-
-a:visited {
-	color: #000000;
-}
-
-a:hover {
-	color: #000000;
-}*/
