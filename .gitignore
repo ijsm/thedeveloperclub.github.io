@@ -1,3 +1,5 @@
 .DS_Store
 *.swp
-The Developer Club
+_site
+.sass-cache
+.jekyll-metadata
