@@ -53,7 +53,7 @@ div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
 	border-bottom-color: orange;
 }
 
-div.navbar-collapse > div.navbar-nav > .nav-link + .nav-link {
+div.navbar-collapse > div.navbar-nav > .nav-link {
 	margin-left: 1rem;
 }
 
