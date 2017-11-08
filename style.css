@@ -8,6 +8,10 @@ body {
 	margin-bottom: 60px;
 }
 
+#aboutText {
+	margin-top: 2rem;
+}
+
 #imageText {
 	font-size: 10px;
 	font-family: "Times New Roman", Times, serif;
