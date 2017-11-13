@@ -10,6 +10,9 @@ body {
 
 #aboutText {
 	margin-top: 2rem;
+	font-size: 14px;
+	width: 75%;
+	font-family: "Times New Roman";
 }
 
 #imageText {
