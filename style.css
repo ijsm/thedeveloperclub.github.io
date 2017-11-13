@@ -22,9 +22,7 @@ hr {
 	margin: 0px;
 }
 
-.copyright {
-	float: right;
-}
+/* END: navbar/footer stuff */
 
 .footer {
 	position: absolute;
@@ -52,9 +50,17 @@ div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
 	border-bottom-color: orange;
 }
 
-div.navbar-collapse > div.navbar-nav > .nav-link {
-	margin-left: 1rem;
+.foot-link, div.navbar-collapse > div.navbar-nav > .nav-link {
+	margin-left: 2rem;
+	font-family: Cambria, serif;
 }
+
+.foot-link {
+	margin-left: 0rem;
+	margin-right: 2rem;
+}
+
+/* END: navbar/footer stuff */
 
 main {
 	margin-top: 2rem;
@@ -62,5 +68,5 @@ main {
 }
 
 #le-nav {
-	border-bottom: .2rem solid black;
+	/*border-bottom: .2rem solid black;*/
 }
