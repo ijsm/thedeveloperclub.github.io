@@ -50,7 +50,7 @@ div.navbar-collapse > div.navbar-nav > a.nav-link {
 
 div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
 	color: #000000;
-	border-bottom-color: orange;
+	border-bottom-color: black;
 }
 
 .foot-link, div.navbar-collapse > div.navbar-nav > .nav-link {
