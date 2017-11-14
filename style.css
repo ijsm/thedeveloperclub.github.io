@@ -65,6 +65,11 @@ div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
 
 /* END: navbar/footer stuff */
 
+#aboutHeaderOne {
+	font-size: 2rem;
+	font-family: "Times New Roman", Times, serif;
+}
+
 main {
 	margin-top: 2rem;
 	padding-bottom: 3rem;
