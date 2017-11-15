@@ -5,7 +5,7 @@ html {
 
 body {
 	padding-top: 5rem;
-	margin-bottom: 60px;
+	margin-bottom: 120px;
 }
 
 #aboutText {
@@ -31,7 +31,7 @@ hr {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	height: 60px;
+	height: 121px;
 	border-top: .01rem solid black;
 	line-height: 60px; /* Vertically center the text there */
 	background-color: #ffffff;
