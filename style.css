@@ -4,56 +4,10 @@ html {
 }
 
 body {
+	/* required for navbar */
 	padding-top: 5rem;
-	margin-bottom: 60px;
-}
-
-#aboutText {
-	margin-top: 2rem;
-}
-
-#imageText {
-	font-size: 10px;
-	font-family: "Times New Roman", Times, serif;
-}
-
-hr {
-	background: #000000aa;
-	margin: 0px;
-}
-
-.copyright {
-	float: right;
-}
-
-.footer {
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	height: 60px;
-	border-top: .2rem solid black;
-	line-height: 60px; /* Vertically center the text there */
-	background-color: #ffffff;
-}
-
-.navbar-nav {
-	margin-right: .5rem;
-}
-
-div.navbar-collapse > div.navbar-nav > a.nav-link {
-	color: #000000;
-	padding: .25rem 0;
-	border-bottom: .25rem solid transparent;
-	border-top: .25rem solid transparent;
-}
-
-div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
-	color: #000000;
-	border-bottom-color: orange;
-}
-
-div.navbar-collapse > div.navbar-nav > .nav-link {
-	margin-left: 1rem;
+	/* required for footer */
+	margin-bottom: 80px;
 }
 
 main {
@@ -61,6 +15,66 @@ main {
 	padding-bottom: 3rem;
 }
 
-#le-nav {
-	border-bottom: .2rem solid black;
+/* might want to generalise #about... */
+#aboutHeaderOne {
+	font-size: 2rem;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#aboutText {
+	margin-top: 2rem;
+	font-size: 1rem;
+	width: 55%;
+	font-family: "Times New Roman", serif;
+}
+
+/* BEGIN: navbar/footer stuff */
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 81px;
+	border-top: .01rem solid black;
+	line-height: 40px; /* Vertically center the text there */
+	background-color: #ffffff;
+	font-family: Cambria, serif;
+	font-size: .8rem;
+}
+
+.navbar-nav {
+	margin-right: 4rem;
+}
+
+div.navbar-collapse > div.navbar-nav > a.nav-link {
+	padding: .25rem 0;
+	border-bottom: .25rem solid transparent;
+	border-top: .25rem solid transparent;
+	margin-left: 2rem;
+}
+
+div.navbar-collapse > div.navbar-nav > a.nav-link:hover, div.navbar-collapse > div.navbar-nav > a.active {
+	color: #000000;
+	border-bottom-color: black;
+}
+
+.foot-link, div.navbar-collapse > div.navbar-nav > a.nav-link {
+	color: #000000;
+	font-family: Cambria, serif;
+}
+
+.foot-link {
+	margin-right: 1.25rem;
+}
+/* END: navbar/footer stuff */
+#image{
+	height: 15rem;
+	width: auto;
+	margin-top: 3.5rem;
+}
+
+#box{
+	height: 31rem;
+	width: 31rem;
+	border: 0.2rem solid;
 }
