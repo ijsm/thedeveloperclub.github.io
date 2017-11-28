@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
+
 <h1 class="row justify-content-center" id="aboutHeaderOne">"We will develop the future"</h1>
+
 
 
 <center><p id="aboutText">
