@@ -24,7 +24,7 @@ main {
 #aboutText {
 	margin-top: 2rem;
 	font-size: 1rem;
-	width: 55%;
+	width: 75%;
 	font-family: "Times New Roman", serif;
 }
 
@@ -79,4 +79,14 @@ div.navbar-collapse > div.navbar-nav > a.nav-link:hover, div.navbar-collapse > d
 	height: 25rem;
 	width: 25rem;
 	border: 0.2rem solid;
+}
+
+.box{
+	height: 11rem;
+	width: 11rem;
+	border: 0.2rem solid;
+}
+
+#indexdiv{
+	margin-top: 10vh;
 }
