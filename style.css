@@ -66,16 +66,17 @@ div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
 .foot-link {
 	margin-right: 1.25rem;
 }
+
 /* END: navbar/footer stuff */
+
 #image{
 	height: 15rem;
 	width: auto;
 	margin-top: 3.5rem;
 }
 
-#box{
-	height: 31rem;
-	width: 31rem;
+#bigBox{
+	height: 25rem;
+	width: 25rem;
 	border: 0.2rem solid;
-	margin-left: 10vw;
 }
