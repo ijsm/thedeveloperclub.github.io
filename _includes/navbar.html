@@ -8,9 +8,9 @@
 
 	<div id="navbarCollapse" class="collapse navbar-collapse col-6 justify-content-end">
 		<div class="navbar-nav">
-			<a class="nav-item nav-link" href="{{ site.url }}/projects/">Projects</a>
-			<a class="nav-item nav-link" href="{{ site.url }}/about/">About</a>
-			<a class="nav-item nav-link" href="{{ site.url }}/resources/">Resources</a>
+			<a class="nav-item nav-link {% if page.title == 'Projects' %} active {% endif %}" href="{{ site.url }}/projects/">Projects</a>
+			<a class="nav-item nav-link {% if page.title == 'About' %} active {% endif %}" href="{{ site.url }}/about/">About</a>
+			<a class="nav-item nav-link {% if page.title == 'Resources' %} active {% endif %}" href="{{ site.url }}/resources/">Resources</a>
 			<a class="nav-item nav-link" href="https://github.com/TheDeveloperClub">GitHub</a>
 		</div>
 	</div>
