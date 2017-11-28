@@ -77,4 +77,5 @@ div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
 	height: 31rem;
 	width: 31rem;
 	border: 0.2rem solid;
+	margin-left: 10vw;
 }
