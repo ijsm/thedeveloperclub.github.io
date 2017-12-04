@@ -70,23 +70,13 @@ div.navbar-collapse > div.navbar-nav > a.nav-item:hover, div.navbar-collapse > d
 	margin-right: 1.25rem;
 }
 /* END: navbar/footer stuff */
-<<<<<<< HEAD
-=======
 
->>>>>>> e530b64ee09641c19b7909d791ca814d558b1102
 #image{
 	height: 15rem;
 	width: auto;
 	margin-top: 3.5rem;
 }
 
-<<<<<<< HEAD
-#box{
-	height: 31rem;
-	width: 31rem;
-	border: 0.2rem solid;
-	margin-left: 10vw;
-=======
 #bigBox{
 	height: 25rem;
 	width: 25rem;
@@ -101,5 +91,4 @@ div.navbar-collapse > div.navbar-nav > a.nav-item:hover, div.navbar-collapse > d
 
 #indexdiv{
 	margin-top: 10vh;
->>>>>>> e530b64ee09641c19b7909d791ca814d558b1102
 }
