@@ -48,17 +48,20 @@ main {
 
 div.navbar-collapse > div.navbar-nav > a.nav-link {
 	padding: .25rem 0;
-	border-bottom: .25rem solid transparent;
-	border-top: .25rem solid transparent;
 	margin-left: 2rem;
 }
 
-div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
+div.navbar-collapse > div.navbar-nav > a.nav-item {
+	border-bottom: .25rem solid transparent;
+	border-top: .25rem solid transparent;
+}
+
+div.navbar-collapse > div.navbar-nav > a.nav-item:hover, div.navbar-collapse > div.navbar-nav > a.active {
 	color: #000000;
 	border-bottom-color: black;
 }
 
-.foot-link, div.navbar-collapse > div.navbar-nav > a.nav-link {
+.foot-link, div.navbar-collapse > div.navbar-nav > a.nav-item {
 	color: #000000;
 	font-family: Cambria, serif;
 }
@@ -67,15 +70,36 @@ div.navbar-collapse > div.navbar-nav > a.nav-link:hover {
 	margin-right: 1.25rem;
 }
 /* END: navbar/footer stuff */
+<<<<<<< HEAD
+=======
+
+>>>>>>> e530b64ee09641c19b7909d791ca814d558b1102
 #image{
 	height: 15rem;
 	width: auto;
 	margin-top: 3.5rem;
 }
 
+<<<<<<< HEAD
 #box{
 	height: 31rem;
 	width: 31rem;
 	border: 0.2rem solid;
 	margin-left: 10vw;
+=======
+#bigBox{
+	height: 25rem;
+	width: 25rem;
+	border: 0.2rem solid;
+}
+
+.box{
+	height: 11rem;
+	width: 11rem;
+	border: 0.2rem solid;
+}
+
+#indexdiv{
+	margin-top: 10vh;
+>>>>>>> e530b64ee09641c19b7909d791ca814d558b1102
 }
